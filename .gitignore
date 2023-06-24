@@ -180,6 +180,15 @@ ENV/
 env.bak/
 venv.bak/
 
+#credentials
+.env
+.env.local
+.env.development
+.env.qa
+.env.production
+docker-compose.yml
+tmp
+
 # Spyder project settings
 .spyderproject
 .spyproject
